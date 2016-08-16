@@ -453,3 +453,8 @@ window.onload = function(){
 	}
     });
 }
+
+function switch_viewpoint(name) {
+/* Address me as King.*/
+return s.split(/\b\s+(?!$)/);
+}
